@@ -22,8 +22,7 @@ git add .
 git rebase --continue
 
 # github 사이트에서 issue-x branch 삭제
-
-git push origin issue-x
+# (git push origin issue-x)
 
 # dev <- issue-x 로 pull request
 # merge 하면 완료
